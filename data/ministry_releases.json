@@ -1,1 +1,269 @@
-[]
+[
+  {
+    "title": "Minister’s statement on Education Week 2026",
+    "url": "https://news.gov.bc.ca/releases/2026ECC0014-000369",
+    "date": "2026-04-12",
+    "summary": "Lisa Beare, Minister of Education and Child Care, has released the following statement in celebration of Education Week 2026:",
+    "core_themes": [
+      "child care access",
+      "student achievement"
+    ],
+    "keywords_primary": [
+      "child care",
+      "student success"
+    ],
+    "keywords_secondary": [
+      "affordability",
+      "educator recognition"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "Protecting access to places of worship, schools",
+    "url": "https://news.gov.bc.ca/releases/2026PREM0013-000238",
+    "date": "2026-04-08",
+    "summary": "Students, educators and people attending faith services will soon see stronger protections that help ensure public spaces remain safe and respectful, with proposed laws extending safe‑access zones at schools and establishing new ones at places of worship.",
+    "core_themes": [
+      "student achievement"
+    ],
+    "keywords_primary": [
+      "student success"
+    ],
+    "keywords_secondary": [
+      "educator recognition"
+    ],
+    "connection_logic": "Use when a story highlights learning progress, academic milestones, year-end achievements, or appreciation for educators.",
+    "connection_output_template": "This reflects the province’s commitment to student success and recognition of the educators who support it."
+  },
+  {
+    "title": "Premier’s, minister’s, parliamentary secretary’s statements on Black Excellence Day",
+    "url": "https://news.gov.bc.ca/releases/2026PREM0003-000032",
+    "date": "2026-04-08",
+    "summary": "Premier David Eby has issued the following statement marking Black Excellence Day:",
+    "core_themes": [
+      "equity and inclusion"
+    ],
+    "keywords_primary": [
+      "equity"
+    ],
+    "keywords_secondary": [
+      "anti-racism"
+    ],
+    "connection_logic": "Use when a story highlights inclusion, belonging, anti-racism, or student identity and dignity.",
+    "connection_output_template": "This supports the province’s work to strengthen inclusive and equitable learning environments for students."
+  },
+  {
+    "title": "Temporary classrooms arriving for Tumbler Ridge students",
+    "url": "https://news.gov.bc.ca/releases/2026ECC0012-000156",
+    "date": "2026-03-09",
+    "summary": "Students and their families can expect to see the first temporary school facilities begin arriving in Tumbler Ridge on Monday, Feb. 16, 2026.",
+    "core_themes": [
+      "learning spaces"
+    ],
+    "keywords_primary": [
+      "school capacity"
+    ],
+    "keywords_secondary": [
+      "capital projects"
+    ],
+    "connection_logic": "Use when a story involves new spaces, temporary facilities, school construction, or capacity planning.",
+    "connection_output_template": "This reflects the province’s focus on ensuring students have safe, functional learning spaces as communities grow and change."
+  },
+  {
+    "title": "Province to remove barriers, make way for more child care at schools",
+    "url": "https://news.gov.bc.ca/releases/2025ECC0041-000970",
+    "date": "2026-03-09",
+    "summary": "The Province has introduced legislation to enable school districts in B.C. to support families with more child care on school grounds.",
+    "core_themes": [
+      "equity and inclusion",
+      "child care access"
+    ],
+    "keywords_primary": [
+      "equity",
+      "child care"
+    ],
+    "keywords_secondary": [
+      "anti-racism",
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "Providing funding for child care spaces in Kelowna",
+    "url": "https://news.gov.bc.ca/releases/2025ECC0050-001196",
+    "date": "2026-03-09",
+    "summary": "More families in Kelowna will have access to affordable, high-quality child care at new activity centres in Glenmore and Mission, which will help lower expenses, reduce waiting lists and help families balance work, school and home life.",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "Protecting parents from extra daily child care fees",
+    "url": "https://news.gov.bc.ca/releases/2025ECC0051-001248",
+    "date": "2026-03-09",
+    "summary": "The Province is protecting parents from extra child care fees by requiring providers to offer at least 9.5 hours of care per day before charging for extended hours.",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "Premier’s, minister’s statements on Pink Shirt Day",
+    "url": "https://news.gov.bc.ca/releases/2026ECC0011-000140",
+    "date": "2026-03-09",
+    "summary": "Premier David Eby has issued the following statement marking Pink Shirt Day:",
+    "core_themes": [
+      "inclusive culture"
+    ],
+    "keywords_primary": [
+      "anti-bullying"
+    ],
+    "keywords_secondary": [
+      "respect"
+    ],
+    "connection_logic": "Use when a story highlights inclusion, belonging, anti-racism, or student identity and dignity.",
+    "connection_output_template": "This supports the province’s work to strengthen inclusive and equitable learning environments for students."
+  },
+  {
+    "title": "Opening more child care spaces in Mackenzie",
+    "url": "https://news.gov.bc.ca/releases/2025ECC0049-001181",
+    "date": "2026-03-09",
+    "summary": "More families in Mackenzie have affordable, high-quality child care at a new centre, which will help lower child care expenses, reduce waiting lists, and help families balance work, school and home life.",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "New child care centre opens for Invermere parents",
+    "url": "https://news.gov.bc.ca/releases/2025ECC0045-001054",
+    "date": "2026-03-09",
+    "summary": "Families in Invermere will soon benefit from more affordable, high-quality child care, with 148 new licensed spaces opening on the grounds of Eileen Madson Primary school.",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "New child care centre coming for Fernie families",
+    "url": "https://news.gov.bc.ca/releases/2025ECC0047-001155",
+    "date": "2026-03-09",
+    "summary": "More families in Fernie will have access to affordable, high-quality child care through 37 new licensed child care spaces at Fernie Elementary school.",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "Minister’s, partners’ statement on substance-use education, prevention in B.C. schools",
+    "url": "https://news.gov.bc.ca/releases/2025ECC0046-001063",
+    "date": "2026-03-09",
+    "summary": "Lisa Beare, Minister of Education and Child Care; Annie Smith, executive director at McCreary Centre Society; B.C. Association of School Business Officials; B.C. Teachers’ Federation; CUPE BC; B.C. Confederation of Parent Advisory Councils; First Nations Education Steering Committee; Métis Nation B.C.; and the First Nations Schools Association have issued the following statement about substance-use education and prevention in B.C.’s K-12 system:",
+    "core_themes": [
+      "Indigenous education",
+      "health education",
+      "child care access"
+    ],
+    "keywords_primary": [
+      "reconciliation",
+      "prevention",
+      "child care"
+    ],
+    "keywords_secondary": [
+      "Indigenous learning",
+      "student health",
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "Kelowna families benefit from new child care centre",
+    "url": "https://news.gov.bc.ca/releases/2025ECC0042-001014",
+    "date": "2026-03-09",
+    "summary": "More families will have access to affordable, high-quality child care in Kelowna as 53 new licensed child care spaces open.",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "Highlighting progress toward ChildCareBC goals",
+    "url": "https://news.gov.bc.ca/releases/2025ECC0048-001178",
+    "date": "2026-03-09",
+    "summary": "The provincial government has released its inaugural annual report under the Early Learning and Child Care Act (ELCCA).",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "Families throughout B.C. will benefit from more than 900 new child care spaces",
+    "url": "https://news.gov.bc.ca/releases/2025ECC0044-001021",
+    "date": "2026-03-09",
+    "summary": "Families in 14 communities throughout the province will benefit from more than 900 new licensed child care spaces that will open this fall, expanding access to affordable, high-quality child care.",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  }
+]

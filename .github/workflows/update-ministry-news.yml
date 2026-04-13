@@ -3,7 +3,7 @@ name: Update Ministry News
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "17 13 * * *"
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -35,6 +35,28 @@ jobs:
       - name: Run updater
         run: python scripts/fetch_releases.py
 
+      - name: Stamp last checked time
+        run: |
+          python - <<'PY'
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          path = Path("output/Ministry of Education News.md")
+          content = path.read_text(encoding="utf-8")
+
+          stamp = f"_Last checked: {datetime.now(timezone.utc).replace(second=0, microsecond=0).strftime('%Y-%m-%d %H:%M UTC')}_"
+
+          lines = content.splitlines()
+
+          if len(lines) >= 2 and lines[1].startswith("_Last checked:"):
+              lines[1] = stamp
+          else:
+              lines.insert(1, "")
+              lines.insert(2, stamp)
+
+          path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+          PY
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
@@ -44,5 +66,5 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Update ministry news framework"
+          git commit -m "Daily ministry news check"
           git push origin main

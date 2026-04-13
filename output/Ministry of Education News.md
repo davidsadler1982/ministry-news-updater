@@ -1,5 +1,7 @@
 # Ministry Alignment Framework: 2026-03 – 2026-04
 
+_Last checked: 2026-04-13 14:57 UTC_
+
 ## Entry ID: 2026-04-12-01
 
 **Title:** Minister’s statement on Education Week 2026  

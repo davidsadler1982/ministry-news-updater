@@ -1,6 +1,6 @@
 # Ministry Alignment Framework: 2026-03 – 2026-04
 
-_Last checked: 2026-05-01 14:34 UTC_
+_Last checked: 2026-05-02 14:15 UTC_
 
 ## Entry ID: 2026-04-12-01
 
@@ -164,6 +164,19 @@ _Last checked: 2026-05-01 14:34 UTC_
 
 ## Entry ID: 2026-03-09-10
 
+**Title:** Minister’s statement on Child Care Month  
+**Link:** https://news.gov.bc.ca/releases/2026ECC0016-000481  
+**Summary:** Lisa Beare, Minister of Education and Child Care, has released the following statement in celebration of Child Care Month:  
+**Core Themes:**
+
+- child care access
+
+**Keywords (weighted):** Primary: child care; Secondary: affordability.  
+**Connection Logic:** Use when a story involves child care access, affordability, school-based child care, or support for families.  
+**Connection Output Template:** This reflects the province’s broader effort to expand affordable, high-quality child care for families.
+
+## Entry ID: 2026-03-09-11
+
 **Title:** Kelowna families benefit from new child care centre  
 **Link:** https://news.gov.bc.ca/releases/2025ECC0042-001014  
 **Summary:** More families will have access to affordable, high-quality child care in Kelowna as 53 new licensed child care spaces open.  
@@ -175,7 +188,7 @@ _Last checked: 2026-05-01 14:34 UTC_
 **Connection Logic:** Use when a story involves child care access, affordability, school-based child care, or support for families.  
 **Connection Output Template:** This reflects the province’s broader effort to expand affordable, high-quality child care for families.
 
-## Entry ID: 2026-03-09-11
+## Entry ID: 2026-03-09-12
 
 **Title:** Highlighting progress toward ChildCareBC goals  
 **Link:** https://news.gov.bc.ca/releases/2025ECC0048-001178  
@@ -188,7 +201,7 @@ _Last checked: 2026-05-01 14:34 UTC_
 **Connection Logic:** Use when a story involves child care access, affordability, school-based child care, or support for families.  
 **Connection Output Template:** This reflects the province’s broader effort to expand affordable, high-quality child care for families.
 
-## Entry ID: 2026-03-09-12
+## Entry ID: 2026-03-09-13
 
 **Title:** Families throughout B.C. will benefit from more than 900 new child care spaces  
 **Link:** https://news.gov.bc.ca/releases/2025ECC0044-001021  

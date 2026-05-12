@@ -1,5 +1,22 @@
 [
   {
+    "title": "Investing in more child care spaces throughout B.C.",
+    "url": "https://news.gov.bc.ca/releases/2026ECC0018-000529",
+    "date": "2026-05-11",
+    "summary": "School districts can now apply for support to accelerate the creation of before‑ and after-school care spaces throughout the province.",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
     "title": "Minister’s statement on Education Week 2026",
     "url": "https://news.gov.bc.ca/releases/2026ECC0014-000369",
     "date": "2026-04-12",

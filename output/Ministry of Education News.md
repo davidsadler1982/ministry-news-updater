@@ -1,8 +1,21 @@
 # Ministry Alignment Framework: 2026-03 – 2026-05
 
-_Last checked: 2026-05-25 16:04 UTC_
+_Last checked: 2026-05-26 16:53 UTC_
 
 ## Entry ID: 2026-05-11-01
+
+**Title:** Minister’s statement on School District 61 judicial review  
+**Link:** https://news.gov.bc.ca/releases/2026ECC0020-000590  
+**Summary:** Lisa Beare, Minister of Education and Child Care, has released the following statement in response to developments regarding the judicial review related to the School District 61 board:  
+**Core Themes:**
+
+- child care access
+
+**Keywords (weighted):** Primary: child care; Secondary: affordability.  
+**Connection Logic:** Use when a story involves child care access, affordability, school-based child care, or support for families.  
+**Connection Output Template:** This reflects the province’s broader effort to expand affordable, high-quality child care for families.
+
+## Entry ID: 2026-05-11-02
 
 **Title:** Investing in more child care spaces throughout B.C.  
 **Link:** https://news.gov.bc.ca/releases/2026ECC0018-000529  

@@ -1,5 +1,22 @@
 [
   {
+    "title": "Minister’s statement on School District 61 judicial review",
+    "url": "https://news.gov.bc.ca/releases/2026ECC0020-000590",
+    "date": "2026-05-11",
+    "summary": "Lisa Beare, Minister of Education and Child Care, has released the following statement in response to developments regarding the judicial review related to the School District 61 board:",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
     "title": "Investing in more child care spaces throughout B.C.",
     "url": "https://news.gov.bc.ca/releases/2026ECC0018-000529",
     "date": "2026-05-11",

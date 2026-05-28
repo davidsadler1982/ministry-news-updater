@@ -1,6 +1,6 @@
 # Ministry Alignment Framework: 2026-03 – 2026-05
 
-_Last checked: 2026-05-27 16:47 UTC_
+_Last checked: 2026-05-28 17:03 UTC_
 
 ## Entry ID: 2026-05-11-01
 

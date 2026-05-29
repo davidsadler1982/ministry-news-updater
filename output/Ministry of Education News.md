@@ -1,8 +1,21 @@
 # Ministry Alignment Framework: 2026-03 – 2026-05
 
-_Last checked: 2026-05-28 17:03 UTC_
+_Last checked: 2026-05-29 16:54 UTC_
 
 ## Entry ID: 2026-05-11-01
+
+**Title:** Public engagement now open to gather input about future of child care in B.C.  
+**Link:** https://news.gov.bc.ca/releases/2026ECC0019-000586  
+**Summary:** The Province is asking families for input about the future of child care in B.C. using a new online, provincewide survey.  
+**Core Themes:**
+
+- child care access
+
+**Keywords (weighted):** Primary: child care; Secondary: affordability.  
+**Connection Logic:** Use when a story involves child care access, affordability, school-based child care, or support for families.  
+**Connection Output Template:** This reflects the province’s broader effort to expand affordable, high-quality child care for families.
+
+## Entry ID: 2026-05-11-02
 
 **Title:** Minister’s statement on School District 61 judicial review  
 **Link:** https://news.gov.bc.ca/releases/2026ECC0020-000590  
@@ -15,7 +28,7 @@ _Last checked: 2026-05-28 17:03 UTC_
 **Connection Logic:** Use when a story involves child care access, affordability, school-based child care, or support for families.  
 **Connection Output Template:** This reflects the province’s broader effort to expand affordable, high-quality child care for families.
 
-## Entry ID: 2026-05-11-02
+## Entry ID: 2026-05-11-03
 
 **Title:** Investing in more child care spaces throughout B.C.  
 **Link:** https://news.gov.bc.ca/releases/2026ECC0018-000529  

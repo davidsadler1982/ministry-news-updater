@@ -1,5 +1,22 @@
 [
   {
+    "title": "Public engagement now open to gather input about future of child care in B.C.",
+    "url": "https://news.gov.bc.ca/releases/2026ECC0019-000586",
+    "date": "2026-05-11",
+    "summary": "The Province is asking families for input about the future of child care in B.C. using a new online, provincewide survey.",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
     "title": "Minister’s statement on School District 61 judicial review",
     "url": "https://news.gov.bc.ca/releases/2026ECC0020-000590",
     "date": "2026-05-11",

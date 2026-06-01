@@ -1,6 +1,20 @@
 # Ministry Alignment Framework: 2026-03 – 2026-05
 
-_Last checked: 2026-05-31 14:56 UTC_
+_Last checked: 2026-06-01 19:00 UTC_
+
+## Entry ID: 2026-05-29-01
+
+**Title:** Minister’s, K-12 education partners’ statement on Pride 2026  
+**Link:** https://news.gov.bc.ca/releases/2026ECC0021-000616  
+**Summary:** Lisa Beare, Minister of Education and Child Care; B.C. School Trustees Association; BC School Superintendents Association; BC Association of School Business Officials; BC Principals’ & Vice-Principals’ Association; BC Teachers’ Federation; CUPE BC; BC Confederation of Parent Advisory Councils; BC Teachers’ Council; BC Public School Employers’ Association; First Nations Education Steering Committee; First Nations Schools Association; Métis Nation BC and Alliance of BC Modern Treaty Nations have released the following statement in celebration of Pride 2026 and the 2SLGBTQIA+ community in B.C.’s education system:  
+**Core Themes:**
+
+- Indigenous education
+- child care access
+
+**Keywords (weighted):** Primary: reconciliation, child care; Secondary: Indigenous learning, affordability.  
+**Connection Logic:** Use when a story involves child care access, affordability, school-based child care, or support for families.  
+**Connection Output Template:** This reflects the province’s broader effort to expand affordable, high-quality child care for families.
 
 ## Entry ID: 2026-05-11-01
 

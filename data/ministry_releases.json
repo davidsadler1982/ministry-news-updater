@@ -1,5 +1,25 @@
 [
   {
+    "title": "Minister’s, K-12 education partners’ statement on Pride 2026",
+    "url": "https://news.gov.bc.ca/releases/2026ECC0021-000616",
+    "date": "2026-05-29",
+    "summary": "Lisa Beare, Minister of Education and Child Care; B.C. School Trustees Association; BC School Superintendents Association; BC Association of School Business Officials; BC Principals’ & Vice-Principals’ Association; BC Teachers’ Federation; CUPE BC; BC Confederation of Parent Advisory Councils; BC Teachers’ Council; BC Public School Employers’ Association; First Nations Education Steering Committee; First Nations Schools Association; Métis Nation BC and Alliance of BC Modern Treaty Nations have released the following statement in celebration of Pride 2026 and the 2SLGBTQIA+ community in B.C.’s education system:",
+    "core_themes": [
+      "Indigenous education",
+      "child care access"
+    ],
+    "keywords_primary": [
+      "reconciliation",
+      "child care"
+    ],
+    "keywords_secondary": [
+      "Indigenous learning",
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
     "title": "Public engagement now open to gather input about future of child care in B.C.",
     "url": "https://news.gov.bc.ca/releases/2026ECC0019-000586",
     "date": "2026-05-11",

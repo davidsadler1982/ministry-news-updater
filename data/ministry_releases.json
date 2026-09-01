@@ -1,5 +1,22 @@
 [
   {
+    "title": "Opening more child care spaces in schools",
+    "url": "https://news.gov.bc.ca/releases/2026ECC0023-001005",
+    "date": "2026-05-29",
+    "summary": "Families in 22 school districts will soon have access to approximately 1,200 new licensed before- and after-school child care spaces, created by repurposing existing space in schools.",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
     "title": "Minister’s, K-12 education partners’ statement on Pride 2026",
     "url": "https://news.gov.bc.ca/releases/2026ECC0021-000616",
     "date": "2026-05-29",

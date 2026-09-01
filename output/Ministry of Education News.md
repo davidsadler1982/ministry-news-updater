@@ -1,8 +1,21 @@
 # Ministry Alignment Framework: 2026-03 – 2026-05
 
-_Last checked: 2026-08-31 19:31 UTC_
+_Last checked: 2026-09-01 17:20 UTC_
 
 ## Entry ID: 2026-05-29-01
+
+**Title:** Opening more child care spaces in schools  
+**Link:** https://news.gov.bc.ca/releases/2026ECC0023-001005  
+**Summary:** Families in 22 school districts will soon have access to approximately 1,200 new licensed before- and after-school child care spaces, created by repurposing existing space in schools.  
+**Core Themes:**
+
+- child care access
+
+**Keywords (weighted):** Primary: child care; Secondary: affordability.  
+**Connection Logic:** Use when a story involves child care access, affordability, school-based child care, or support for families.  
+**Connection Output Template:** This reflects the province’s broader effort to expand affordable, high-quality child care for families.
+
+## Entry ID: 2026-05-29-02
 
 **Title:** Minister’s, K-12 education partners’ statement on Pride 2026  
 **Link:** https://news.gov.bc.ca/releases/2026ECC0021-000616  

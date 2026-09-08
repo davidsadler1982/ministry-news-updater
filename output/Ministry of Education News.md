@@ -1,6 +1,32 @@
-# Ministry Alignment Framework: 2026-03 – 2026-05
+# Ministry Alignment Framework: 2026-03 – 2026-09
 
-_Last checked: 2026-09-07 18:16 UTC_
+_Last checked: 2026-09-08 17:16 UTC_
+
+## Entry ID: 2026-09-08-01
+
+**Title:** Minister’s statement on returning to school  
+**Link:** https://news.gov.bc.ca/releases/2026ECC0025-001034  
+**Summary:** Lisa Beare, Minister of Education and Child Care, has issued the following statement about returning to learning in B.C.’s K-12 schools:  
+**Core Themes:**
+
+- child care access
+
+**Keywords (weighted):** Primary: child care; Secondary: affordability.  
+**Connection Logic:** Use when a story involves child care access, affordability, school-based child care, or support for families.  
+**Connection Output Template:** This reflects the province’s broader effort to expand affordable, high-quality child care for families.
+
+## Entry ID: 2026-09-08-02
+
+**Title:** Access zones in place to protect students, staff this school year  
+**Link:** https://news.gov.bc.ca/releases/2026ECC0024-001031  
+**Summary:** To keep students and staff safe, the Province is establishing access zones at B.C.’s K-12 public and independent schools.  
+**Core Themes:**
+
+- student achievement
+
+**Keywords (weighted):** Primary: student success; Secondary: educator recognition.  
+**Connection Logic:** Use when a story highlights learning progress, academic milestones, year-end achievements, or appreciation for educators.  
+**Connection Output Template:** This reflects the province’s commitment to student success and recognition of the educators who support it.
 
 ## Entry ID: 2026-05-29-01
 

@@ -1,5 +1,39 @@
 [
   {
+    "title": "Minister’s statement on returning to school",
+    "url": "https://news.gov.bc.ca/releases/2026ECC0025-001034",
+    "date": "2026-09-08",
+    "summary": "Lisa Beare, Minister of Education and Child Care, has issued the following statement about returning to learning in B.C.’s K-12 schools:",
+    "core_themes": [
+      "child care access"
+    ],
+    "keywords_primary": [
+      "child care"
+    ],
+    "keywords_secondary": [
+      "affordability"
+    ],
+    "connection_logic": "Use when a story involves child care access, affordability, school-based child care, or support for families.",
+    "connection_output_template": "This reflects the province’s broader effort to expand affordable, high-quality child care for families."
+  },
+  {
+    "title": "Access zones in place to protect students, staff this school year",
+    "url": "https://news.gov.bc.ca/releases/2026ECC0024-001031",
+    "date": "2026-09-08",
+    "summary": "To keep students and staff safe, the Province is establishing access zones at B.C.’s K-12 public and independent schools.",
+    "core_themes": [
+      "student achievement"
+    ],
+    "keywords_primary": [
+      "student success"
+    ],
+    "keywords_secondary": [
+      "educator recognition"
+    ],
+    "connection_logic": "Use when a story highlights learning progress, academic milestones, year-end achievements, or appreciation for educators.",
+    "connection_output_template": "This reflects the province’s commitment to student success and recognition of the educators who support it."
+  },
+  {
     "title": "Opening more child care spaces in schools",
     "url": "https://news.gov.bc.ca/releases/2026ECC0023-001005",
     "date": "2026-05-29",
